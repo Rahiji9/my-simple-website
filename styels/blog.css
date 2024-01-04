@@ -3,3 +3,15 @@ div{
   padding: 10px;
   margin: 10px;
 }
+.my-image{
+  width: 300px;
+ margin-left: auto;
+ display:inline-block
+}
+body{
+  background-color: black;
+}
+
+
+
+
